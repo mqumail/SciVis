@@ -1,0 +1,10 @@
+﻿Build started 6/12/2018 10:19:06 PM.
+     1>Project "C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\out\ALL_BUILD.vcxproj" on node 2 (Rebuild target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/CMakeLists.txt
+         CMake does not need to re-run because C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out/CMakeFiles/generate.stamp is up-to-date.
+     1>Done Building Project "C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\out\ALL_BUILD.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.14

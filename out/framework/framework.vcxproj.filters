@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\glew.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\cube.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\imgui_impl_glfw_gl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\plane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\transfer_function.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\volume_loader_raw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\color.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\cube.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\data_types_fwd.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\fensterchen.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\plane.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\transfer_function.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\turntable.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\utils.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\volume_loader_raw.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\window.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\imconfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\imgui.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\imgui_impl_glfw_gl3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\stb_rect_pack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\stb_textedit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\stb_truetype.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E08F8421-CCCF-3024-BA7C-BCE6FEED3019}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7C1AF41E-4085-36FD-A432-BBEEAAF2076D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

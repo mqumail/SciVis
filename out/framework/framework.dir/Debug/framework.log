@@ -1,0 +1,34 @@
+﻿Build started 6/12/2018 10:18:47 PM.
+     1>Project "C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\out\framework\framework.vcxproj" on node 2 (Rebuild target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/framework/CMakeLists.txt
+         CMake does not need to re-run because C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out/framework/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\external" /I"C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\external\glfw-3.0.3\include" /I"C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\external\glm-0.9.5.3" /I"C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\external\stb-image" /I"C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework" /I"C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\.." /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "EXERCISE_SCIVIS_SOURCE_DIR=\"C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master\"" /D "EXERCISE_SCIVIS_BINARY_DIR=\"C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out\"" /D GLEW_STATIC /D _CRT_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"framework.dir\Debug\\" /Fd"framework.dir\Debug\vc110.pdb" /Gd /TC /errorReport:prompt "C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\glew.c"
+         glew.c
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\external" /I"C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\external\glfw-3.0.3\include" /I"C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\external\glm-0.9.5.3" /I"C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\external\stb-image" /I"C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework" /I"C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\.." /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D "EXERCISE_SCIVIS_SOURCE_DIR=\"C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master\"" /D "EXERCISE_SCIVIS_BINARY_DIR=\"C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out\"" /D GLEW_STATIC /D _CRT_SECURE_NO_WARNINGS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"framework.dir\Debug\\" /Fd"framework.dir\Debug\vc110.pdb" /Gd /TP /errorReport:prompt "C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\cube.cpp" "C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\imgui.cpp" "C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\imgui_impl_glfw_gl3.cpp" "C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\plane.cpp" "C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\transfer_function.cpp" "C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\utils.cpp" "C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\volume_loader_raw.cpp" "C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\framework\window.cpp"
+         cube.cpp
+         imgui.cpp
+         imgui_impl_glfw_gl3.cpp
+         plane.cpp
+         transfer_function.cpp
+         utils.cpp
+         volume_loader_raw.cpp
+         window.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\out\framework\Debug\framework.lib" /NOLOGO /MACHINE:X64  /machine:x64 framework.dir\Debug\glew.obj
+         framework.dir\Debug\cube.obj
+         framework.dir\Debug\imgui.obj
+         framework.dir\Debug\imgui_impl_glfw_gl3.obj
+         framework.dir\Debug\plane.obj
+         framework.dir\Debug\transfer_function.obj
+         framework.dir\Debug\utils.obj
+         framework.dir\Debug\volume_loader_raw.obj
+         framework.dir\Debug\window.obj
+         framework.vcxproj -> C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\out\framework\Debug\framework.lib
+     1>Done Building Project "C:\Users\Muhammad\Documents\Bauhaus University Weimar\Visualization\Assignments\ExSciVis2018-master\out\framework\framework.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.83

@@ -1,0 +1,16 @@
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out/CMakeFiles/PACKAGE.dir
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out/CMakeFiles/INSTALL.dir
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out/CMakeFiles/ALL_BUILD.dir
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out/external/glfw-3.0.3/CMakeFiles/PACKAGE.dir
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out/external/glfw-3.0.3/CMakeFiles/INSTALL.dir
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out/external/glfw-3.0.3/CMakeFiles/ALL_BUILD.dir
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out/external/glfw-3.0.3/src/CMakeFiles/glfw.dir
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out/external/glfw-3.0.3/src/CMakeFiles/PACKAGE.dir
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out/external/glfw-3.0.3/src/CMakeFiles/INSTALL.dir
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out/framework/CMakeFiles/PACKAGE.dir
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out/framework/CMakeFiles/framework.dir
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out/framework/CMakeFiles/INSTALL.dir
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out/source/CMakeFiles/MyVolumeRaycaster.dir
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out/source/CMakeFiles/PACKAGE.dir
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/out/source/CMakeFiles/INSTALL.dir

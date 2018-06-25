@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/external/glfw-3.0.3/CMakeLists.txt
+C:/Users/Muhammad/Downloads/cmake-3.11.2-win32-x86/cmake-3.11.2-win32-x86/share/cmake-3.11/Modules/FindOpenGL.cmake
+C:/Users/Muhammad/Downloads/cmake-3.11.2-win32-x86/cmake-3.11.2-win32-x86/share/cmake-3.11/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/Muhammad/Downloads/cmake-3.11.2-win32-x86/cmake-3.11.2-win32-x86/share/cmake-3.11/Modules/FindPackageMessage.cmake
+C:/Users/Muhammad/Downloads/cmake-3.11.2-win32-x86/cmake-3.11.2-win32-x86/share/cmake-3.11/Modules/FindThreads.cmake
+C:/Users/Muhammad/Downloads/cmake-3.11.2-win32-x86/cmake-3.11.2-win32-x86/share/cmake-3.11/Modules/CheckLibraryExists.cmake
+C:/Users/Muhammad/Downloads/cmake-3.11.2-win32-x86/cmake-3.11.2-win32-x86/share/cmake-3.11/Modules/CheckSymbolExists.cmake
+C:/Users/Muhammad/Downloads/cmake-3.11.2-win32-x86/cmake-3.11.2-win32-x86/share/cmake-3.11/Modules/CheckIncludeFile.cmake
+C:/Users/Muhammad/Downloads/cmake-3.11.2-win32-x86/cmake-3.11.2-win32-x86/share/cmake-3.11/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/Muhammad/Downloads/cmake-3.11.2-win32-x86/cmake-3.11.2-win32-x86/share/cmake-3.11/Modules/FindPackageMessage.cmake
+C:/Users/Muhammad/Downloads/cmake-3.11.2-win32-x86/cmake-3.11.2-win32-x86/share/cmake-3.11/Modules/FindDoxygen.cmake
+C:/Users/Muhammad/Downloads/cmake-3.11.2-win32-x86/cmake-3.11.2-win32-x86/share/cmake-3.11/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/Muhammad/Downloads/cmake-3.11.2-win32-x86/cmake-3.11.2-win32-x86/share/cmake-3.11/Modules/FindPackageMessage.cmake
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/external/glfw-3.0.3/docs/Doxyfile.in
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/external/glfw-3.0.3/src/config.h.in
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/external/glfw-3.0.3/src/glfwConfig.cmake.in
+C:/Users/Muhammad/Documents/Bauhaus University Weimar/Visualization/Assignments/ExSciVis2018-master/external/glfw-3.0.3/src/glfwConfigVersion.cmake.in
